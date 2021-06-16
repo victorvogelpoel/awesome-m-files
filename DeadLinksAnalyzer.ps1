@@ -26,7 +26,7 @@ function Test-MarkdownLinks([String]$Path) {
     return $unreachable
 }
 
-$DeadLinks = Test-MarkdownLinks -Path ".\readme.md"
+$DeadLinks = Test-MarkdownLinks -Path "."
 if ($DeadLinks) {
     Write-Host -Object '--- DEAD LINKS FOUND ---' -ForegroundColor Red
     foreach ($DeadLink in $DeadLinks) {
