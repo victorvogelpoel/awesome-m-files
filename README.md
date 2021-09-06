@@ -18,13 +18,23 @@ M-Files is.....
 
 ## Content Section 2
 
+## M-Files Product
+- [M-Files Product Versions](https://www.m-files.com/products/product-editions/)
+- [M-Files Solution Catalog](https://catalog.m-files.com/)
+- [M-Files Consulting Applications](https://consulting.m-files.com/doku.php?id=list_applications)
+
+
 ## Portals and Forums
 
 - [M-Files Community portal](https://community.m-files.com/)
+- [M-Files Customer Support](https://m-files.force.com/)
 - [M-Files Forums on Community Portal](https://community.m-files.com/forums-1552881334/)
-- [M-Files Developer Portal](https://developer.m-files.com/)
+- [M-Files Developer Portal](https://developer.m-files.com/) 
 - [M-Files Developer Community on Yammer](https://www.yammer.com/m-filesdevelopercommunity/#/home)
 - [M-Files Partner Portal](https://partners.m-files.com/)
+- [M-Files Partner Vault](https://partners.cloudvault.m-files.com/)
+- [M-Files Consulting](https://consulting.m-files.com)
+
 
 ## Development
 
