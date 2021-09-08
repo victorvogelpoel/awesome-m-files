@@ -7,10 +7,10 @@ A curated list of delightful [M-Files](https://m-files.com) resources.
 
 My primary focus with M-Files as a technical consultant and software developer is the M-Files application platform to build integrations and solutions that interact with M-Files (cloud) vaults.
 
-## Content
+## Content Awesome M-Files
 
 - [Awesome M-Files](#awesome-m-files)
-  - [Content](#content)
+  - [Content Awesome M-Files](#content-awesome-m-files)
   - [M-Files Product](#m-files-product)
   - [M-Files Portals and Forums](#m-files-portals-and-forums)
   - [Development](#development)
