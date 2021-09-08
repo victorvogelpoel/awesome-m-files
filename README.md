@@ -1,4 +1,5 @@
-# Awesome M-Files
+# Awesome M-Files <!-- omit in toc -->
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of delightful [M-Files](https://m-files.com) resources.
@@ -7,23 +8,21 @@ A curated list of delightful [M-Files](https://m-files.com) resources.
 
 My primary focus with M-Files as a technical consultant and software developer is the M-Files application platform to build integrations and solutions that interact with M-Files (cloud) vaults.
 
-## Content Awesome M-Files
+## Table of contents <!-- omit in toc -->
 
-- [Awesome M-Files](#awesome-m-files)
-  - [Content Awesome M-Files](#content-awesome-m-files)
-  - [M-Files Product](#m-files-product)
-  - [M-Files Portals and Forums](#m-files-portals-and-forums)
-  - [Development](#development)
-    - [M-Files Reference documentation](#m-files-reference-documentation)
-    - [Development resources](#development-resources)
-    - [Visual Studio Extensions](#visual-studio-extensions)
-    - [M-Files COM API](#m-files-com-api)
-    - [M-Files REST API](#m-files-rest-api)
-    - [M-Files UI Extensibility](#m-files-ui-extensibility)
-    - [Vault Application Framework](#vault-application-framework)
-    - [Libraries and open source](#libraries-and-open-source)
-    - [NuGET Packages](#nuget-packages)
-  - [Misc](#misc)
+- [M-Files Product](#m-files-product)
+- [M-Files Portals and Forums](#m-files-portals-and-forums)
+- [Development](#development)
+  - [M-Files Reference documentation](#m-files-reference-documentation)
+  - [Development resources](#development-resources)
+  - [Visual Studio Extensions](#visual-studio-extensions)
+  - [M-Files COM API](#m-files-com-api)
+  - [M-Files REST API](#m-files-rest-api)
+  - [M-Files UI Extensibility](#m-files-ui-extensibility)
+  - [Vault Application Framework](#vault-application-framework)
+  - [Libraries and open source](#libraries-and-open-source)
+  - [NuGET Packages](#nuget-packages)
+- [Misc](#misc)
 
 ## M-Files Product
 
