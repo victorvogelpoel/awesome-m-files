@@ -1,0 +1,9 @@
+{
+  "name": "awesome-m-files",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:victorvogelpoel/awesome-mfiles.git",
+  "author": "Victor Vogelpoel <victor@victorvogelpoel.nl>",
+  "license": "CC BY-SA 4.0",
+  "private": true
+}
