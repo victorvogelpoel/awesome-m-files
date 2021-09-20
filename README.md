@@ -63,23 +63,23 @@ My primary focus with M-Files as a technical consultant and software developer i
 ### M-Files COM API
 
 - [Official COM API Reference](https://www.m-files.com/api/documentation/index.html)
-- [COM/.NET API forum on Yammer M-Files Developer Community](https://www.yammer.com/m-filesdevelopercommunity/#/threads/inGroup?type=in_group&feedId=10800111&view=all)<!-- omit in link analyzer -->
+- [*RETIRING* COM/.NET API forum on Yammer M-Files Developer Community](https://www.yammer.com/m-filesdevelopercommunity/#/threads/inGroup?type=in_group&feedId=10800111&view=all)<!-- omit in link analyzer -->
 - [COM API guidance on M-Files Developer Portal](https://developer.m-files.com/APIs/COM-API/)
 
 ### M-Files REST API
 
 - [Official REST API reference](https://developer.m-files.com/APIs/REST-API/Reference/)
 - [REST API guidance on M-Files Developer Portal](https://developer.m-files.com/APIs/REST-API/)
-- [Web Service (RESTful API) forum on Yammer M-Files Developer Community](https://www.yammer.com/m-filesdevelopercommunity/#/threads/inGroup?type=in_group&feedId=10799863&view=all)<!-- omit in link analyzer -->
+- [*RETIRING* Web Service (RESTful API) forum on Yammer M-Files Developer Community](https://www.yammer.com/m-filesdevelopercommunity/#/threads/inGroup?type=in_group&feedId=10799863&view=all)<!-- omit in link analyzer -->
 - [M-Files MFaaP.MFWSClient](https://github.com/M-Files/Libraries.MFWSClient) - M-Files C# M-Files Web Service Wrapper ('not for production')
 
 ### M-Files UI Extensibility
 - [Official UI Extensibility Framework reference](https://www.m-files.com/UI_Extensibility_Framework/#FrontPage.html)
 - [UI Extensibility Framework guidances on M-Files Developer Portal](https://developer.m-files.com/Frameworks/User-Interface-Extensibility-Framework/)
-- [UI Extensibility Framework forum on Yammer M-Files Developer Community](https://www.yammer.com/m-filesdevelopercommunity/#/threads/inGroup?type=in_group&feedId=10799853&view=all)<!-- omit in link analyzer -->
+- [*RETIRING* UI Extensibility Framework forum on Yammer M-Files Developer Community](https://www.yammer.com/m-filesdevelopercommunity/#/threads/inGroup?type=in_group&feedId=10799853&view=all)<!-- omit in link analyzer -->
 
 ### Vault Application Framework
-- [Vault Application Framework forum on Yammer M-Files Developer Community](https://www.yammer.com/m-filesdevelopercommunity/#/threads/inGroup?type=in_group&feedId=10799870)<!-- omit in link analyzer -->
+- [*RETIRING* Vault Application Framework forum on Yammer M-Files Developer Community](https://www.yammer.com/m-filesdevelopercommunity/#/threads/inGroup?type=in_group&feedId=10799870)<!-- omit in link analyzer -->
 - [M-Files Vault Application Framework Extensions (Community)](https://github.com/M-Files/VAF.Extensions.Community) - a community-driven set of functionality that extends the base M-Files Vault Application Framework (not directly supported by M-Files)
 - [CtrlVAF by Solution Management](https://github.com/Solution-Management/CtrlVAF) - Move logic out of the standard VaultApplication class into separate classes that can handle these tasks for the VaultApplication class. The design is based on the dispatcher/command 
 
